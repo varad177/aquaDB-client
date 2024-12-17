@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  body {
+    background-color: black;
+  }
+  
+
+
+  .mapboxgl-popup-close-button {
+    background-color: transparent;
+    border: 0;
+    border: none;
+    border-radius: 0 3px 0 0;
+    cursor: pointer;
+    color: red;
+    position: absolute;
+    right: 4px;
+    top: 4px;
+    font-size: 35px;
+}
