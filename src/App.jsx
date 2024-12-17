@@ -20,7 +20,6 @@ import Admindatauploadusers from "./Pages/Admin-data-upload-users";
 import Adminmap from "./Pages/Admin-map";
 import FishingMap from "./Pages/Admin-map";
 import Loader from "./Components/Loader";
-import ResearchMap from "./Pages/Researchmap";
 import ResearchStats from "./Pages/ResearchStats";
 import Addexcel from "./Pages/Add-excel";
 import ScientistHome from "./Pages/ScientistHome";
@@ -40,6 +39,7 @@ import SidebarNew from "./Components/SidebarNew";
 import ScientistSavedDataSets from "./Pages/ScientistSavedDataSets";
 import StatusPanel from "./Pages/StatusPanel";
 import DataTable2 from "./Pages/VillageData";
+import ResearchMap from "./Pages/ResearchMap"
 // function AppLayout({ children }) {
 //   const location = useLocation();
 //   const [login, setlogin] = useState(false);
